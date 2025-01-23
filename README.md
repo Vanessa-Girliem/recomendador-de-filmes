@@ -20,5 +20,5 @@
 
 <div>
     <h3>🚀 Obrigada pela atenção!</h3>
-    <p>Obs. Em breve adicionarei ***novos critérios e filmes :)***</p>
+    <p>Obs. Em breve adicionarei novos critérios e filmes :)</p>
 </div>
