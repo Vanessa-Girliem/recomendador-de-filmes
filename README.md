@@ -18,9 +18,5 @@
 
 ![p5js](https://img.shields.io/badge/P5.js-black?style=for-the-badge&logo=p5dotjs&logoColor=%23ffb1c7)
 
-<div>
-  <footer>
     <h3>🚀 Obrigada pela atenção!</h3>
     <p>Obs. Em breve adicionarei novos critérios e filmes :)</p>
-  </footer>
-</div>
