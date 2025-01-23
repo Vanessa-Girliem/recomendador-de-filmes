@@ -5,8 +5,8 @@
   <p>Este projeto tem como objetivo oferecer diferentes tipos de filmes ao usuário, fazendo as recomendações mais compatíveis com seus perfis.</p>
   <p>Critérios utilizados para criar as mecânicas:</p>
 <ul>
-  <li>Faixa etária do usuário</li>
-  <li>Gênero da produção</li>
+  <li>Faixa etária do usuário;</li>
+  <li>Gênero da produção;</li>
 </ul>
 </div>
 
