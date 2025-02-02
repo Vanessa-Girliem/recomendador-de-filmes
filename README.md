@@ -18,9 +18,6 @@
 
 ![p5js](https://img.shields.io/badge/P5.js-black?style=for-the-badge&logo=p5dotjs&logoColor=%23ffb1c7)
 
-<h3>🖼️ Imagem do Projeto</h3>
-<img src="./src/recomendado de filmes.jpg" alt="Recomendador de Filmes">
-
 <div>
     <h3>🚀 Obrigada pela atenção!</h3>
     <p>Obs. Em breve adicionarei novos critérios e filmes :)</p>
