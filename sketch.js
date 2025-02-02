@@ -3,22 +3,22 @@ let campoFantasia;
 let campoAventura; 
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(400, 400);
   createElement("h2", "Recomendador de Filmes")
   createSpan("Sua idade");
   campoIdade = createInput("5");
   campoFantasia = createCheckbox("Gosta de Fantasia?");
-  campoFantasia = createCheckbox("Gosta de Aventura?");
+  campoAventura = createCheckbox("Gosta de Aventura?");
 }
 
 function draw() {
-  background("white");
+  background("black");
   let idade = campoIdade.value();
   let gostaDeFantasia = campoFantasia.checked();
   let gostaDeAventura = campoAventura.checked();
   let recomendacao = geraRecomendacao(idade, gostaDeFantasia);
   
-  fill(color(76, 0, 115));
+  fill(color("white"));
   textAlign(CENTER, CENTER); 
   textSize(38); 
   text(recomendacao, width / 2, height / 2);
