@@ -3,7 +3,7 @@ let campoFantasia;
 let campoAventura; 
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 400);
   createElement("h2", "Recomendador de Filmes")
   createSpan("Sua idade");
   campoIdade = createInput("5");
